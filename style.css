@@ -1,0 +1,21 @@
+.data {
+    display: flex;;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.user {
+    width: 350px;
+    height: auto;
+    display: inline-block;
+    box-shadow: 0 3px 0 3px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    background: #ef3bd7;
+    background: linear-gradient(to right, #fac1f3, #c83bef);
+}
+
+.user:hover {
+    margin-bottom: 30px;
+}

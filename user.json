@@ -1,0 +1,26 @@
+[{
+    "username"      : "tukang ribut",
+    "name"          : "John Doe",
+    "login_method"  : "with google account",
+    "activity"      : "post a article"
+},{
+    "username"      : "Pendiem",
+    "name"          : "Aloy",
+    "login_method"  : "with discord account",
+    "activity"      : "Delete dataframe"
+},{
+    "username"      : "Anak Pak Luhut",
+    "name"          : "Steven",
+    "login_method"  : "with orang dalama",
+    "activity"      : "Nothing"
+},{
+    "username"      : "Anonymous",
+    "name"          : "White had",
+    "login_method"  : "with slack account",
+    "activity"      : "Change the server"
+},{
+    "username"      : "CTO",
+    "name"          : "Jul jul",
+    "login_method"  : "with origin account",
+    "activity"      : "Redesign pattern system"
+}]
